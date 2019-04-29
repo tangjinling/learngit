@@ -4,4 +4,7 @@ Git is free software.
 
 first use git
 
-fii
+fidfdsf
+
+
+cd diff readme
