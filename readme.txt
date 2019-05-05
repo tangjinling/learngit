@@ -11,6 +11,6 @@ cd diff readme
 
 insert readme
 
-master abc
+master abc or def
 
 
